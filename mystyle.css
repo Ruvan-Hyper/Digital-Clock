@@ -1,0 +1,16 @@
+body {
+  background-color:skyblue;
+}
+
+#clock {
+  color:#fff;
+  font-size: 145px;
+  
+  padding: 25px;
+  width: 80%;
+  margin-left: 100px;
+  font-family:Helvetica;
+  text-align: center;
+  margin-top: 250px;
+  margin: auto;
+}
